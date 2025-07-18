@@ -30,8 +30,8 @@ function Navbar() {
         <nav>
             <div>
                 <a href="#home" className='flex items-center gap-2'>
-                    <img src="/images/logo.png" alt="" />
-                    <p>Velvel Pour</p>
+                    <img src="/images/logo.png" className='w-9' />
+                    <p className='tracking-wider'>Hydrate</p>
                 </a>
 
                 <ul>
